@@ -1,0 +1,119 @@
+ [
+        {
+          "context": "A mantra is a sound or phrase repeated to aid concentration in meditation. Sanskrit mantras like Om and Om Namah Shivaya are commonly used. Repeating a mantra can calm the mind and deepen devotion.",
+          "qas": [
+            {
+              "id": "Mantra_1",
+              "question": "What is a mantra?",
+              "answers": [
+                {
+                  "text": "a sound or phrase repeated to aid concentration in meditation",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Mantra_2",
+              "question": "Give an example of a Sanskrit mantra from the context.",
+              "answers": [
+                {
+                  "text": "Om Namah Shivaya",
+                  "answer_start": 104
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Mantra_3",
+              "question": "What can repeating a mantra do?",
+              "answers": [
+                {
+                  "text": "calm the mind",
+                  "answer_start": 163
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },      
+
+       {
+          "context": "Meditation trains attention and awareness to achieve mental clarity and calm. Benefits include reduced stress, improved concentration, and greater self-awareness. Common techniques are breath focus and body scan.",
+          "qas": [
+            {
+              "id": "Meditation_1",
+              "question": "What does meditation train?",
+              "answers": [
+                {
+                  "text": "attention and awareness",
+                  "answer_start": 18
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Meditation_2",
+              "question": "Name one benefit of meditation mentioned.",
+              "answers": [
+                {
+                  "text": "reduced stress",
+                  "answer_start": 95
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Meditation_3",
+              "question": "Give a common meditation technique from the context.",
+              "answers": [
+                {
+                  "text": "breath focus",
+                  "answer_start": 185
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+      
+        {
+          "context": "Chakras are energy centers in the subtle body. The seven main chakras are Root, Sacral, Solar Plexus, Heart, Throat, Third Eye, and Crown. Each chakra links to physical and emotional functions.",
+          "qas": [
+            {
+              "id": "Chakras_1",
+              "question": "What are chakras described as?",
+              "answers": [
+                {
+                  "text": "energy centers in the subtle body",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Chakras_2",
+              "question": "How many main chakras are there?",
+              "answers": [
+                {
+                  "text": "seven",
+                  "answer_start": 51
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Chakras_3",
+              "question": "Name two chakras listed.",
+              "answers": [
+                {
+                  "text": "Heart, Throat",
+                  "answer_start": 102
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    

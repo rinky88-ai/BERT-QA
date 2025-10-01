@@ -1,0 +1,40 @@
+  [
+        {
+          "context": "Dharma means duty, righteousness, and the moral order. Following one's dharma involves acting in harmony with cosmic law and social responsibility according to one's role and nature.",
+          "qas": [
+            {
+              "id": "Dharma_1",
+              "question": "What does dharma mean?",
+              "answers": [
+                {
+                  "text": "duty, righteousness, and the moral order",
+                  "answer_start": 13
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Dharma_2",
+              "question": "What does following one's dharma involve?",
+              "answers": [
+                {
+                  "text": "acting in harmony with cosmic law and social responsibility",
+                  "answer_start": 87
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "id": "Dharma_3",
+              "question": "Following dharma depends on what?",
+              "answers": [
+                {
+                  "text": "one's role and nature",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
